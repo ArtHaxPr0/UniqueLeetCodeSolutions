@@ -32,7 +32,7 @@ I plan to solve every question in both Python and C++. While it is not necessary
 ## Imports
 
 To Access and view those imports Press on the Language you want to see. [Python](https://leetcode.com/discuss/general-discussion/1268235/imported-python-modules-in-the-solution-template).
-For C++ i couldn´t finde the complete list, but I will append the needed ressources while creating the solutions. 
+For C++ i couldn´t finde the complete list, but I will append the needed ressources while creating the solutions.
 
 ## NeetCode as Roadmap
 
