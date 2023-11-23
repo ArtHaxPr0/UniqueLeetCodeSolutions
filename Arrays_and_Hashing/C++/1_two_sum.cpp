@@ -12,7 +12,7 @@ using namespace std;
 * 1. Iterate through the array
 * 2. For each element, iterate through the rest of the array and check if the sum of the current element and the next element is equal to the target
 * 
-* This could probaly be solved faster with a hash table
+* This could probaly be solved faster with a hash table 
 */
 
 class Solution {

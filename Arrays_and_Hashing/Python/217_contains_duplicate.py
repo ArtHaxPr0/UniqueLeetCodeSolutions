@@ -1,3 +1,8 @@
+# RUNTIME: 507 ms, faster than 13.18% of python3 Submissions. 
+# MEMORY USAGE: 28.2 MB, less than 95.25% of python3 Submissions.
+
+from __future__ import annotations
+from ast import *
 
 
 # My thougtprocess:
@@ -9,12 +14,6 @@
 # At fist I thought about using two loops, but that would have been O(n^2) time complexity
 # Sorting seemed like a good idea, even though it could be probably optimized further. 
 
-# RUNTIME: 507 ms, faster than 13.18% of python3 Submissions. 
-# MEMORY USAGE: 28.2 MB, less than 95.25% of python3 Submissions.
-
-
-from __future__ import annotations
-from ast import *
 
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
