@@ -8,26 +8,27 @@ I plan to solve every question in both Python and C++. While it is not necessary
 
 ## Topic Completion Track
 
-| Folder Name               | Completion Percentage | Completed           |
-|---------------------------|-----------------------|---------------------|
-| Arrays & Hashing          | 100%                  | :heavy_check_mark:  |
-| Two Pointers              | 40%                   | :x:                 |
-| Stack                     | 25%                   | :x:                 |
-| Binary Search             |  0%                   | :x:                 |
-| Sliding Window            |  0%                   | :x:                 |
-| Linked List               |  0%                   | :x:                 |
-| Trees                     |  0%                   | :x:                 |
-| Tries                     |  0%                   | :x:                 |
-| Backtracking              |  0%                   | :x:                 |
-| Heap / Priority Queue     |  0%                   | :x:                 |
-| Graphs                    |  0%                   | :x:                 |
-| Advanced Graphs           |  0%                   | :x:                 |
-| 1-D DP                    |  0%                   | :x:                 |
-| 2-D DP                    |  0%                   | :x:                 |
-| Intervals                 |  0%                   | :x:                 |
-| Greedy                    |  0%                   | :x:                 |
-| Bit Manipulation          |  0%                   | :x:                 |
-| Math & Geometry           |  0%                   | :x:                 |
+| Folder Name               | Completion Percentage | Completed           | Amount of Completed Questions |
+|---------------------------|-----------------------|---------------------| ----------------------------- |
+| Arrays & Hashing          | 100%                  | :heavy_check_mark:  |             8 / 8             |
+| Two Pointers              | 40%                   | :x:                 |             0 / 5             |
+| Stack                     | 25%                   | :x:                 |             0 / 7             |
+| Binary Search             |  0%                   | :x:                 |             0 / 7             |
+| Sliding Window            |  0%                   | :x:                 |             0 / 6             |
+| Linked List               |  0%                   | :x:                 |             0 / 11            |
+| Trees                     |  0%                   | :x:                 |             0 / 15            |
+| Tries                     |  0%                   | :x:                 |             0 / 3             |
+| Backtracking              |  0%                   | :x:                 |             0 / 9             |
+| Heap / Priority Queue     |  0%                   | :x:                 |             0 / 7             |
+| Graphs                    |  0%                   | :x:                 |             0 / 13            |
+| Advanced Graphs           |  0%                   | :x:                 |             0 / 6             |
+| 1-D DP                    |  0%                   | :x:                 |             0 / 12            |
+| 2-D DP                    |  0%                   | :x:                 |             0 / 11            |
+| Intervals                 |  0%                   | :x:                 |             0 / 6             |
+| Greedy                    |  0%                   | :x:                 |             0 / 8             |
+| Bit Manipulation          |  0%                   | :x:                 |             0 / 7             |
+| Math & Geometry           |  0%                   | :x:                 |             0 / 8             |
+| SUM_OF_ALL                |  5%                   | :x:                 |             8 / 149           |
 
 ## Imports
 
