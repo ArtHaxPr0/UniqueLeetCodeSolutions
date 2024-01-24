@@ -10,7 +10,7 @@ from ast import *
 # 2. check the maximum area between left and right and update maxArea
 # 3. if sum of left height is smaller than right height, we need to increase left
 # 4. return the max area
-height = [1,8,6,2,5,4,8,3,7]
+
 
 class Solution:
     def maxArea(self, height: List[int]) -> int:

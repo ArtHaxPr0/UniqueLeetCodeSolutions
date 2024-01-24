@@ -11,7 +11,7 @@ I plan to solve every question in both Python and C++. While it is not necessary
 | Folder Name               | Completion Percentage | Completed           | Amount of Completed Questions |
 |---------------------------|-----------------------|---------------------| ----------------------------- |
 | Arrays & Hashing          | 100%                  | :heavy_check_mark:  |             8 / 8             |
-| Two Pointers              | 80%                   | :x:                 |             4 / 5             |
+| Two Pointers              | 100%                  | :heavy_check_mark:  |             5 / 5             |
 | Stack                     | 25%                   | :x:                 |             0 / 7             |
 | Binary Search             |  0%                   | :x:                 |             0 / 7             |
 | Sliding Window            |  0%                   | :x:                 |             0 / 6             |
@@ -28,7 +28,7 @@ I plan to solve every question in both Python and C++. While it is not necessary
 | Greedy                    |  0%                   | :x:                 |             0 / 8             |
 | Bit Manipulation          |  0%                   | :x:                 |             0 / 7             |
 | Math & Geometry           |  0%                   | :x:                 |             0 / 8             |
-| SUM_OF_ALL                |  5%                   | :x:                 |             12 / 149          |
+| SUM_OF_ALL                |  5%                   | :x:                 |             13 / 149          |
 
 ## Imports
 
