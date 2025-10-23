@@ -12,7 +12,7 @@ I plan to solve every question in both Python and C++. While it is not necessary
 |---------------------------|-----------------------|---------------------| ----------------------------- |
 | Arrays & Hashing          | 100%                  | :heavy_check_mark:  |             8 / 8             |
 | Two Pointers              | 100%                  | :heavy_check_mark:  |             5 / 5             |
-| Stack                     | 30%                   | :x:                 |             3 / 7             |
+| Stack                     | 55%                   | :x:                 |             4 / 7             |
 | Binary Search             |  0%                   | :x:                 |             0 / 7             |
 | Sliding Window            |  0%                   | :x:                 |             0 / 6             |
 | Linked List               |  0%                   | :x:                 |             0 / 11            |
@@ -28,7 +28,7 @@ I plan to solve every question in both Python and C++. While it is not necessary
 | Greedy                    |  0%                   | :x:                 |             0 / 8             |
 | Bit Manipulation          |  0%                   | :x:                 |             0 / 7             |
 | Math & Geometry           |  0%                   | :x:                 |             0 / 8             |
-| SUM_OF_ALL                |  10%                  | :x:                 |             16 / 149          |
+| SUM_OF_ALL                |  10%                  | :x:                 |             17 / 149          |
 
 ## Imports
 
