@@ -14,7 +14,7 @@ I plan to solve every question in both Python and C++. While it is not necessary
 | Two Pointers              | 100%                  | :heavy_check_mark:  |             5 / 5             |
 | Stack                     | 100%                  | :heavy_check_mark:  |             7 / 7             |
 | Binary Search             |  0%                   | :x:                 |             0 / 7             |
-| Sliding Window            |  0%                   | :x:                 |             0 / 6             |
+| Sliding Window            |  16%                  | :x:                 |             1 / 6             |
 | Linked List               |  0%                   | :x:                 |             0 / 11            |
 | Trees                     |  0%                   | :x:                 |             0 / 15            |
 | Tries                     |  0%                   | :x:                 |             0 / 3             |
@@ -28,7 +28,7 @@ I plan to solve every question in both Python and C++. While it is not necessary
 | Greedy                    |  0%                   | :x:                 |             0 / 8             |
 | Bit Manipulation          |  0%                   | :x:                 |             0 / 7             |
 | Math & Geometry           |  0%                   | :x:                 |             0 / 8             |
-| SUM_OF_ALL                |  10%                  | :x:                 |             20 / 149          |
+| SUM_OF_ALL                |  10%                  | :x:                 |             21 / 149          |
 
 ## Imports
 
